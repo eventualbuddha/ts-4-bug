@@ -1,0 +1,7 @@
+{
+  "name": "ts-4-bug",
+  "main": "index.js",
+  "devDependencies": {
+    "typescript": "^4.1.3"
+  }
+}
